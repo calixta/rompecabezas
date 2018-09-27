@@ -57,3 +57,24 @@ li::before {
   from { opacity: 0; }
   to   { opacity: 1; }
 }
+
+/*css de Calixta*/
+
+#juego{
+  height:600px;
+  width:600px;
+}
+
+#juego .ficha{
+  width:33.3%;
+  height:33.3%;
+  float: left;
+}
+
+#juego .ficha img{
+  width:100%;
+}
+
+#objetivo img{
+  width: 100%;
+}
