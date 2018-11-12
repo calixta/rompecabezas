@@ -57,7 +57,7 @@ function chequearSiGano() {
 // Implementar alguna forma de mostrar un cartel que avise que ganaste el juego
 function mostrarCartelGanador() {
     if (chequearSiGano()){
-      alert("Wuuu! ganaste!");
+      swal("¡Genio!", "¡Armaste perfecto el rompecabezas!", "success");
     }
 }
 

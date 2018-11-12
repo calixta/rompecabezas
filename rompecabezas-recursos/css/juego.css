@@ -4,7 +4,7 @@ body {
   width: 940px;
   margin: 5% auto;
   min-height: 100%;
-  background-image: url(../images/adventure.jpg);
+  background-color: #dfdfdf;
 }
 ul {
   padding-left: 0;
@@ -16,12 +16,12 @@ li {
 }
 li::before {
   content: "• ";
-  color: #EC6778;
+  color: #222222;
 }
 
 .col-40 h1 {
   font-size: 20px;
-  color: #E84A5F;
+  color: #222222;
 }
 
 .col-40, .col-60 {
@@ -36,7 +36,7 @@ li::before {
 }
 
 .col-60 {
-  background: #E84A5F;
+  background: #D0CAC7;
 
 }
 
